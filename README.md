@@ -1,2 +1,11 @@
-# fi-labs-2022
-FI-93/FI-94 symmetric cryptography programming assignments
+## Інструкція по користуванню git та github
+https://docs.google.com/document/d/1Muo7uuaRVGhhJ5sBHU_BRKew3DluG2aOVgpuS889cJw/edit?usp=sharing
+
+## Графік дедлайнів
+
+| Практикум   |    ФІ-93    |    ФІ-94    |
+|:-----------:|:-----------:|:-----------:|
+|  №1         | 28.02.2022  | 21.02.2022  |
+|  №2         | 28.03.2022  | 21.03.2022  |
+|  №3         | 25.04.2022  | 18.04.2022  |
+|  №4         | 23.05.2022  | 16.05.2022  |
